@@ -1,2 +1,2 @@
-# finalproject-html5
+# finalproject
 Final Project
